@@ -2,6 +2,8 @@
 
 Todolist android application build with react native and expo-cli.
 
+<a href='https://drive.google.com/file/d/1iA0PtdVNJESYja8nWOzqOZ5rvdL6uI59/view?usp=drive_link' download>App</a>
+
 ## Functionality:
 
 - Add tasks via modal
