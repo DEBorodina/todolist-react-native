@@ -2,7 +2,7 @@
 
 Todolist android application build with react native and expo-cli.
 
-<a href='https://drive.google.com/file/d/1iA0PtdVNJESYja8nWOzqOZ5rvdL6uI59/view?usp=drive_link' download>App</a>
+<a href='https://drive.google.com/u/0/uc?id=1iA0PtdVNJESYja8nWOzqOZ5rvdL6uI59&export=download' download>App</a>
 
 ## Functionality:
 
