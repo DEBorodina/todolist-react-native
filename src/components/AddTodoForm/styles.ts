@@ -7,7 +7,7 @@ export const styles = StyleSheet.create({
     position: 'relative',
     backgroundColor: COLORS.WHITE_COLOR,
     width: '80%',
-    height: 400,
+    height: 320,
     borderRadius: 20,
     padding: 20,
     alignItems: 'center',
