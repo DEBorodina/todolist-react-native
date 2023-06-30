@@ -22,6 +22,8 @@ Todolist android application build with react native and expo-cli.
 - Prettier
 
 ## Screenshots:
+<p>
+  <img src="./screenshots/main.jpg" height="400" />
+  <img src="./screenshots/form.jpg" height="400" />
+</p>
 
-<img src="./screenshots/main.jpg" height="400" />
-<img src="./screenshots/form.jpg" height="400" />
