@@ -3,6 +3,7 @@
 Todolist android application build with react native and expo-cli.
 
 ## Functionality:
+
 - Add tasks via modal
 - Delete tasks
 - Mark as done tasks
@@ -10,6 +11,7 @@ Todolist android application build with react native and expo-cli.
 - Show statistics about complete and uncomplete tasks with progress ring diagram
 
 ## Technologies:
+
 - React Native
 - Expo
 - Redux toolkit
@@ -19,6 +21,7 @@ Todolist android application build with react native and expo-cli.
 - Typescript
 - Prettier
 
-## Screenshots: 
-![main screen]('./screenshots/main.jpg')
-![add form]('./screenshots/form.jpg')
+## Screenshots:
+
+<img src="./screenshots/main.jpg" height="400" />
+<img src="./screenshots/form.jpg" height="400" />
